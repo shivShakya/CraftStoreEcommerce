@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CraftStoreEcommerce/static/css/main.47865340.css",
+    "main.js": "/CraftStoreEcommerce/static/js/main.33c81b1c.js",
+    "static/js/453.43e416f3.chunk.js": "/CraftStoreEcommerce/static/js/453.43e416f3.chunk.js",
+    "index.html": "/CraftStoreEcommerce/index.html",
+    "main.47865340.css.map": "/CraftStoreEcommerce/static/css/main.47865340.css.map",
+    "main.33c81b1c.js.map": "/CraftStoreEcommerce/static/js/main.33c81b1c.js.map",
+    "453.43e416f3.chunk.js.map": "/CraftStoreEcommerce/static/js/453.43e416f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47865340.css",
+    "static/js/main.33c81b1c.js"
+  ]
+}
