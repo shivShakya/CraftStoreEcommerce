@@ -1,0 +1,58 @@
+.ml{
+    margin: 50px;
+    margin-left: 200px;
+    background-color: rgb(68, 71, 83);
+    padding: 100px;
+}
+h2{
+    color: whitesmoke;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.bhka{
+    padding: 20px;
+}
+
+.btn{
+   
+   width: 20px;
+}
+
+
+.pred{
+    color: aliceblue;
+    background-color: rgb(66, 14, 195);
+    margin-left: 370px;
+    height: 100px;
+    width:200px;
+    border-color: black;
+    border-width: 20px;
+    
+}
+
+.price{
+   text-align: center;
+   font-size: 30px;
+   font-style: oblique;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.imageClassify{
+    background-color: rgb(94, 90, 135);
+    display: block;
+    justify-content: center;
+    width: 300px;
+    height: 500px;
+    margin: 100px;
+    margin-left: 500px;
+}
+
+.color{
+    color: aliceblue;
+    text-align: center;
+    font-size: larger;
+    font-weight: 500;
+    margin-top: 100px;
+}

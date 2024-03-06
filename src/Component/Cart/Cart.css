@@ -1,0 +1,50 @@
+.card-tags-cart {
+    background-color: rgb(108, 117, 124);
+    margin-top: 5px;
+    height: 280px;
+    width: 100%;
+    margin-right:10px;
+    display: flex;
+    justify-content: center;
+    color: beige;
+
+    }
+.typeChange{
+        white-space: pre-wrap; 
+        white-space: normal;
+      }
+
+.card-list-cart {
+        margin: 20px 50px;
+        padding: 4px;
+        background-color: rgb(255, 255, 255);
+        margin-left: 20px;
+        margin-top: 100px;
+        height: 500px;
+        width:900px;
+        overflow-y: scroll;
+        display: inline-block;
+        flex-wrap: nowrap;
+        white-space: nowrap;
+}
+
+.type-delete{
+    height: 30px;
+    margin-top: 0px;
+}
+
+.cart-div{
+    background-color: bisque;
+}
+
+@media only screen and (max-width: 600px){
+    .card-tags-cart {
+        width: 480px;
+    }
+
+    .card-list-cart {
+        width:500px;
+    }
+} 
+
+    
